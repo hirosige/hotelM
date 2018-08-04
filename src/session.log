@@ -1,0 +1,27 @@
+{
+  "provider"=>"auth0", 
+  "uid"=>"auth0|5b5dc4c2750f272b7931c495", 
+  "info"=>{
+    "name"=>"hirosige1@gmail.com", 
+    "nickname"=>"hirosige1", 
+    "email"=>nil, 
+    "image"=>"https://s.gravatar.com/avatar/ccd54efb086462e4c304ef563f473c78?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fhi.png"
+  }, 
+  "credentials"=>{
+    "token"=>"qcs6j-bgwQoKLKCpFbcsyNw2XlIHwKJF", 
+    "expires_at"=>1533472780, 
+    "expires"=>true, 
+    "id_token"=>"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik1UazVORFl5TURRMU9EVkZPRGxGT0RZeVFVVkVORU16UVVaRVJqTXdPRVZCTVVSR01UQkZOUSJ9.eyJuaWNrbmFtZSI6Imhpcm9zaWdlMSIsIm5hbWUiOiJoaXJvc2lnZTFAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyL2NjZDU0ZWZiMDg2NDYyZTRjMzA0ZWY1NjNmNDczYzc4P3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGaGkucG5nIiwidXBkYXRlZF9hdCI6IjIwMTgtMDgtMDRUMTI6Mzk6MzkuMTMyWiIsImlzcyI6Imh0dHBzOi8vc3VuZWlraWkuYXV0aDAuY29tLyIsInN1YiI6ImF1dGgwfDViNWRjNGMyNzUwZjI3MmI3OTMxYzQ5NSIsImF1ZCI6IjFtbXFET2F3bjBJbVRKaTJHMTd3N092bHI5VVp5YkhCIiwiaWF0IjoxNTMzMzg2MzgwLCJleHAiOjE1MzM0MjIzODB9.Bv5H-ekMrq3A7sd1a8Yr7OcLszeW1A_yfsocUL15SXTAZ7q8UTRshfm02q5QIQCvRURn9rWwI1NdxB316KYLBzA1wL0Qwycu4RTzGx1fq-a9yVpgh45BJ86U3e3JZQT8MMcNE0y6cSOcMmhENVwV_J732HVkpIj_FHIEkKjD-LHnFheItY3YQzHmY49Ynu5TOiYxL3jshwNhN350nkA9qR8aXqs4vdKWqATFI-uqetPCKYVtRU5x5jCkRq6lSl6KNDHyzwnbxR9kk02SHcOF7mq3QLNw9Zy1ChWhew2t5r05jAzJC-QKfY4m7FND_ICR1r5Cu6qe0TxmS_N0kxVcKA", 
+    "token_type"=>"Bearer", 
+    "refresh_token"=>nil
+  }, 
+  "extra"=>{
+    "raw_info"=>{
+      "sub"=>"auth0|5b5dc4c2750f272b7931c495", 
+      "nickname"=>"hirosige1", 
+      "name"=>"hirosige1@gmail.com", 
+      "picture"=>"https://s.gravatar.com/avatar/ccd54efb086462e4c304ef563f473c78?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fhi.png", 
+      "updated_at"=>"2018-08-04T12:39:39.132Z"
+    }
+  }
+}
