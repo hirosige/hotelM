@@ -6,4 +6,10 @@ curl --request POST \
     --data '{"grant_type":"authorization_code","client_id": "dx651al2u1xZTT2GIob5Boq9mcVeExH2","client_secret": "crh-O1NpB0mdZ3Kp0NOy0TsAPlE5S1x0JJUQhGt5dzlx0oAK2dKDCxf_OQMxcsCO","code": "cLTmoGeh_AlYMxAG","redirect_uri": "http://192.168.33.50:3000/auth/oauth2/callback"}'
 
 
-{"access_token":"R9pAFLpJ6zXe4GjvWvzXQACtOG6e3_ir","id_token":"","scope":"openid","expires_in":86400,"token_type":"Bearer"}%  eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3N1bmVpa2lpLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1YjVkYzRjMjc1MGYyNzJiNzkzMWM0OTUiLCJhdWQiOiJkeDY1MWFsMnUxeFpUVDJHSW9iNUJvcTltY1ZlRXhIMiIsImlhdCI6MTUzMzMwNzMwMCwiZXhwIjoxNTMzMzQzMzAwfQ.dtj-yVt2REsB4KH34JYhsktcuoIgWNVP-Hl8Bf7Yn8k
+http://192.168.33.50:3000/oauth/token#
+access_token=7WqWQpvjOKRDhb8mU3ZuAptiajwUbqF9&
+id_token=
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3N1bmVpa2lpLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1YjVkYzRjMjc1MGYyNzJiNzkzMWM0OTUiLCJhdWQiOiJkeDY1MWFsMnUxeFpUVDJHSW9iNUJvcTltY1ZlRXhIMiIsImlhdCI6MTUzMzM5NDc2MiwiZXhwIjoxNTMzNDMwNzYyfQ.c-dws_dLboU8j6WWuz97uMWjqqd1oP-ujDxb9HSDZOc
+&scope=openid
+&expires_in=86400
+&token_type=Bearer

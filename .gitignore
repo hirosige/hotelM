@@ -13,3 +13,4 @@ node_modules
 spec/results
 vendor/bundle
 .vscode
+README.pdf
